@@ -6,7 +6,9 @@ This project displays a skew effect on page scroll. These were all done by manip
 
 ## Image 
 
-![]()
+![](skew.gif)
+
+_The gif image really ruins the quality of the video. The actual effect is much smoother than in the image, I promise._
 
 ## Font 
 
